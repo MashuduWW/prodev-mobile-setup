@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+# Welcome to your Expo app 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -7,16 +6,23 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+Node.js (LTS recommended)
+Expo Go
+npm 
+Git
+Android Studio (for Android emulator & SDK)
 
-2. Start the app
+2. Create project
 
-   ```bash
-   npx expo start
-   ```
+npx create-expo-app@latest appName
 
+3. Test & run
+
+npx expo start
+
+
+
+   
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
@@ -89,4 +95,5 @@ Expo Credentials:
 Solution: Either sign up on expo.dev
  or run locally without logging in (not required unless publishing builds).
 
->>>>>>> 565f8de71a6dc7f51e84afe6a43bc450f4703553
+
+Author: Mashudu Molema
